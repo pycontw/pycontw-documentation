@@ -1,0 +1,17 @@
+[project]
+name = "pycontw-documentation"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Fish", email = "lucylin0819@gmail.com"},
+]
+dependencies = [
+    "mkdocs>=1.5.3",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
