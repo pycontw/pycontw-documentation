@@ -1,0 +1,11 @@
+[project]
+name = "pycontw-documentation"
+version = "0.1.0"
+description = "Default template for PDM package"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "commitizen>=4.5.1",
+    "mkdocs>=1.6.1",
+    "pre-commit>=4.2.0",
+]
