@@ -1,6 +1,6 @@
 ---
 title: 行為準則 Code of Conduct
-summary: 
+summary:
     PyCon Taiwan 致力於為所有人提供無騷擾的會議體驗（包含數位場域），我們不容許以任何形式騷擾任何參與者、不容許任何的騷擾和性別歧視、種族主義或排他性笑話。本公約適用於參與者在 PyCon Taiwan 相關場域中的一切言行，期望大家一起合作。
 
     PyCon Taiwan aims to provide a joyous, pleasant and vibrant environment. This convention applies to all the words and deeds of participants in the relevant entities and digital fields of PyCon Taiwan. It is hoped that everyone will work together to make PyCon Taiwan full of mutual respect and trust.
